@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eduardoraygoza@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wqjwuMUahQ0XrtxhAMWuVhBZXu_3D30f/view?usp=sharing](https://drive.google.com/file/d/1wqjwuMUahQ0XrtxhAMWuVhBZXu_3D30f/view?usp=sharing)
+- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1wqjwuMUahQ0XrtxhAMWuVhBZXu_3D30f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
