@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoraygoza&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoraygoza" /> </p>
 
-- 🔭 I’m currently working on [react-store](https://github.com/EduardoRaygoza/react-store)
-
-- 🌱 I’m currently learning **back-end development**
-
-- 💬 Ask me about **Front-end development, JavaScript, React, SQL, Java, Python**
-
 - 📫 How to reach me **eduardoraygoza@gmail.com**
-
-- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1wqjwuMUahQ0XrtxhAMWuVhBZXu_3D30f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
